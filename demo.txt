@@ -1,1 +1,2 @@
 My demo file.
+This is a practice demonstration of adding, committing, and uploading a text file into a GitHub repo.
